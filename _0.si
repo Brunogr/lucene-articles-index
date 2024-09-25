@@ -1,0 +1,27 @@
+    version 4.8
+    number of documents 1771
+    uses compound file false
+    diagnostics 8
+      key source
+      value flush
+      key lucene.version
+      value 4.8.0-beta00016
+      key os
+      value Microsoft Windows
+      key os.arch
+      value Arm64
+      key os.version
+      value 10.0.22621
+      key java.version
+      value 8.0.4
+      key java.vendor
+      value Microsoft
+      key timestamp
+      value 9/25/2024 5:08:02 PM
+    files 5
+      file _0.fld
+      file _0.pst
+      file _0.len
+      file _0.inf
+      file _0.si
+checksum 00000000003366559011

@@ -1,0 +1,24 @@
+number of fields 2
+  name body
+  number 0
+  indexed true
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  norms type NUMERIC
+  doc values false
+  doc values gen -1
+  attributes 0
+  name domain
+  number 1
+  indexed true
+  index options DOCS_ONLY
+  term vectors false
+  payloads false
+  norms false
+  norms type false
+  doc values false
+  doc values gen -1
+  attributes 0
+checksum 00000000003062281585
